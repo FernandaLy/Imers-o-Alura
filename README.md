@@ -20,14 +20,7 @@
 
 Quer ajudar a melhorar este projeto? Fique à vontade para contribuir com novas informações, corrigir erros ou sugerir melhorias. Basta criar um fork do repositório e enviar um pull request.
 
-**Agradecimentos:**
-
-Agradecemos a todos que contribuíram para a criação deste projeto. Sua ajuda é fundamental para que possamos oferecer informações cada vez mais completas e atualizadas sobre cuidados com idosos.
 
 **Vamos juntos cuidar de quem sempre cuidou de nós!**
-
-**Observações:**
-
-* **Base de dados:** A base de dados utilizada neste projeto é fictícia e serve apenas para demonstrar o funcionamento da aplicação. Para uma aplicação real, seria necessário criar uma base de dados robusta com informações relevantes e atualizadas sobre cuidados com idosos.
 
 Link para acesso do site:https://cuidando-dos-vovos.vercel.app/
